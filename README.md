@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vinaythakur04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinaythakur04" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/users/20517476/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/20517476/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/users/20517476/vinay-kumar-thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/20517476/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vinaythakur04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vinaythakur04" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@vinaythakur04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vinaythakur04" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vinaythakur04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vinaythakur04" height="30" width="40" /></a>
