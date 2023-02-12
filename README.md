@@ -28,7 +28,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&username=VinayThakur04" height="180" alt="languages graph"  />
 </div>
 
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?animations=false&theme=radical&locale=en&hide_border=false&user=vinaythakur04&" alt="vinaythakur04" /></p>
 
+<h3>Snake_Eating_My_Contribution</h3>
+<div align="left""animations=false&theme=radical&locale=en&hide_border=false">
+  <hr></div>
+<img src="https://github.com/VinayThakur04/VinayThakur04/blob/output/snake.svg" alt="Snake animation" />
