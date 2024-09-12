@@ -15,12 +15,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: generate snake.svg
+      - name: generate snake.svg with dark background
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: VinayThakur04
           outputs: dist/snake.svg
+          # Optionally, add custom styling here if the action allows
 
+      - name: modify snake.svg for dark mode
+        run: |
+          sed -i 's/<svg /<svg style="background-color:#000;" /' dist/snake.svg
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v2.6.0
