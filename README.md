@@ -33,4 +33,9 @@
 <h3>Snake_Eating_My_Contribution</h3>
 <div align="left""animations=false&theme=radical&locale=en&hide_border=false">
   <hr></div>
-<img src="https://github.com/VinayThakur04/VinayThakur04/blob/output/snake.svg" alt="Snake animation" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/VinayThakur04/VinayThakur04/blob/output/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/VinayThakur04/VinayThakur04/blob/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/VinayThakur04/VinayThakur04/blob/output/snake.svg">
+</picture>
+<!-- <img src="https://github.com/VinayThakur04/VinayThakur04/blob/output/snake.svg" alt="Snake animation" /> -->
