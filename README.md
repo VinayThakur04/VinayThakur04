@@ -11,6 +11,7 @@
 
 - 📫 How to reach me **tvinay2004@gmail.com**
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/badboy04.png" alt="Your Image Badge" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vinaythakur04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinaythakur04" height="30" width="40" /></a>
